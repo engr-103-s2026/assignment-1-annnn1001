@@ -20,4 +20,4 @@ A5. <Yes, I think that when I use to write programs, it will chang the way I thi
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <I want to learn how to put my thought into programing languages and let it run.>
+A6. <I want to learn mobile app development so that I can put my thought into programing languages and let it run>
