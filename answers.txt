@@ -16,7 +16,7 @@ A4. <Yes, I think learing to slove computational problems and write program woul
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <Yes, I think that when I use to write programs, it will chang the way I think and communicate.>
+A5. <Yes, I think learning to write programs will change how I think and how I communicate.>
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
